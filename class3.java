@@ -37,7 +37,6 @@ class A extends Mark {
 
 	}
 
-	@Override
 
 	public float getPercentage() {
 
@@ -67,7 +66,6 @@ class B extends Mark {
 
 	}
 
-	@Override
 
 	public float getPercentage() {
 
