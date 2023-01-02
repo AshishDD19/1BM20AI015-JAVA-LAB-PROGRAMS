@@ -29,5 +29,3 @@ System.out.println("Invalid index value");
 }
 }
 }
-Footer
-© 2023 GitH
